@@ -39,7 +39,6 @@
 .nav__link {
   color: black;
   text-decoration: none;
-  font-weight: lighter;
 }
 .header__content {
   display: flex;
