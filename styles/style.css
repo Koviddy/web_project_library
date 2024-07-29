@@ -18,6 +18,10 @@
   box-sizing: border-box;
   position: relative;
 }
+.header__link {
+  color: #2f80ed;
+  text-decoration: none;
+}
 .nav {
   display: flex;
   justify-content: space-between;
@@ -39,6 +43,7 @@
 .nav__link {
   color: black;
   text-decoration: none;
+  font-weight: bold;
 }
 .header__content {
   display: flex;
