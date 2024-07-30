@@ -378,6 +378,7 @@ img {
   text-decoration: none;
   display: flex;
   align-items: center;
+  column-gap: 16px;
 }
 
 .footer__social-icon {
